@@ -1,0 +1,5 @@
+Please add these packages in your
+dependencies:
+  image_picker: ^0.6.7+11
+  provider:
+  toast: 
